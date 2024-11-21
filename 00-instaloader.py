@@ -36,7 +36,7 @@ with open(prompt_file, "r") as f:
     system_prompt = f.read().replace("\n", " ").strip()
 
 
-if False:
+if True:
     # Get instance
     L = instaloader.Instaloader()
 
