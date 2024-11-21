@@ -1,0 +1,228 @@
+{
+    "events": [
+        {
+            "name": "Christmas Happenings",
+            "location": {
+                "street_address": "",
+                "city": "Montgomery",
+                "state": "MD",
+                "zip_code": "",
+                "latitude": null,
+                "longitude": null
+            },
+            "start_date": "2024-11-07",
+            "end_date": "2024-11-11",
+            "start_time": null,
+            "end_time": null,
+            "hashtags": ["dcEvents", "thingstododc", "washingtondc", "maryland", "Virginia", "dmv", "dcmoms", "eventsdc", "igdc", "dcfamily", "dmvfreeevents", "kidfriendlydc", "mydccool", "November", "Fall", "veteransday"]
+        },
+        {
+            "name": "Spider-Man Across the Spider-Verse Live in Concert",
+            "location": {
+                "street_address": "National Theatre",
+                "city": "Washington",
+                "state": "DC",
+                "zip_code": "",
+                "latitude": null,
+                "longitude": null
+            },
+            "start_date": "2024-11-08",
+            "end_date": "2024-11-09",
+            "start_time": null,
+            "end_time": null,
+            "hashtags": ["dcEvents", "thingstododc", "washingtondc", "maryland", "Virginia", "dmv", "dcmoms", "eventsdc", "igdc", "dcfamily", "dmvfreeevents", "kidfriendlydc", "mydccool", "November", "Fall", "veteransday"]
+        },
+        {
+            "name": "The Lion King Jr.",
+            "location": {
+                "street_address": "Encore",
+                "city": "Arlington",
+                "state": "VA",
+                "zip_code": "",
+                "latitude": null,
+                "longitude": null
+            },
+            "start_date": "2024-11-08",
+            "end_date": "2024-11-24",
+            "start_time": null,
+            "end_time": null,
+            "hashtags": ["dcEvents", "thingstododc", "washingtondc", "maryland", "Virginia", "dmv", "dcmoms", "eventsdc", "igdc", "dcfamily", "dmvfreeevents", "kidfriendlydc", "mydccool", "November", "Fall", "veteransday"]
+        },
+        {
+            "name": "Story Tapestries featuring Jamaal Mr. Root Collier",
+            "location": {
+                "street_address": "InterAct Story Theatre",
+                "city": "",
+                "state": "",
+                "zip_code": "",
+                "latitude": null,
+                "longitude": null
+            },
+            "start_date": "2024-11-09",
+            "end_date": "2024-11-10",
+            "start_time": null,
+            "end_time": null,
+            "hashtags": ["dcEvents", "thingstododc", "washingtondc", "maryland", "Virginia", "dmv", "dcmoms", "eventsdc", "igdc", "dcfamily", "dmvfreeevents", "kidfriendlydc", "mydccool", "November", "Fall", "veteransday"]
+        },
+        {
+            "name": "Fake Cake Decorating",
+            "location": {
+                "street_address": "Dov and Company",
+                "city": "Potomac",
+                "state": "MD",
+                "zip_code": "",
+                "latitude": null,
+                "longitude": null
+            },
+            "start_date": "2024-11-08",
+            "end_date": "2024-11-08",
+            "start_time": null,
+            "end_time": null,
+            "hashtags": ["dcEvents", "thingstododc", "washingtondc", "maryland", "Virginia", "dmv", "dcmoms", "eventsdc", "igdc", "dcfamily", "dmvfreeevents", "kidfriendlydc", "mydccool", "November", "Fall", "veteransday"]
+        },
+        {
+            "name": "November Family Day: Veterans Day",
+            "location": {
+                "street_address": "Library of Congress",
+                "city": "Washington",
+                "state": "DC",
+                "zip_code": "",
+                "latitude": null,
+                "longitude": null
+            },
+            "start_date": "2024-11-09",
+            "end_date": "2024-11-09",
+            "start_time": null,
+            "end_time": null,
+            "hashtags": ["dcEvents", "thingstododc", "washingtondc", "maryland", "Virginia", "dmv", "dcmoms", "eventsdc", "igdc", "dcfamily", "dmvfreeevents", "kidfriendlydc", "mydccool", "November", "Fall", "veteransday"]
+        },
+        {
+            "name": "The Phillips Plays",
+            "location": {
+                "street_address": "Phillips Collection",
+                "city": "Washington",
+                "state": "DC",
+                "zip_code": "",
+                "latitude": null,
+                "longitude": null
+            },
+            "start_date": "2024-11-09",
+            "end_date": "2024-11-09",
+            "start_time": null,
+            "end_time": null,
+            "hashtags": ["dcEvents", "thingstododc", "washingtondc", "maryland", "Virginia", "dmv", "dcmoms", "eventsdc", "igdc", "dcfamily", "dmvfreeevents", "kidfriendlydc", "mydccool", "November", "Fall", "veteransday"]
+        },
+        {
+            "name": "Adventures in Literacy: A Heart Project",
+            "location": {
+                "street_address": "Sankofa Cafe",
+                "city": "Washington",
+                "state": "DC",
+                "zip_code": "",
+                "latitude": null,
+                "longitude": null
+            },
+            "start_date": "2024-11-09",
+            "end_date": "2024-11-09",
+            "start_time": null,
+            "end_time": null,
+            "hashtags": ["dcEvents", "thingstododc", "washingtondc", "maryland", "Virginia", "dmv", "dcmoms", "eventsdc", "igdc", "dcfamily", "dmvfreeevents", "kidfriendlydc", "mydccool", "November", "Fall", "veteransday"]
+        },
+        {
+            "name": "National Cryptologic Museum's STEM Day",
+            "location": {
+                "street_address": "National Cryptologic Museum",
+                "city": "",
+                "state": "",
+                "zip_code": "",
+                "latitude": null,
+                "longitude": null
+            },
+            "start_date": "2024-11-09",
+            "end_date": "2024-11-09",
+            "start_time": null,
+            "end_time": null,
+            "hashtags": ["dcEvents", "thingstododc", "washingtondc", "maryland", "Virginia", "dmv", "dcmoms", "eventsdc", "igdc", "dcfamily", "dmvfreeevents", "kidfriendlydc", "mydccool", "November", "Fall", "veteransday"]
+        },
+        {
+            "name": "Maryland STEM Career Fair for Girls & Morgan State STEM Expo",
+            "location": {
+                "street_address": "",
+                "city": "PG County",
+                "state": "MD",
+                "zip_code": "",
+                "latitude": null,
+                "longitude": null
+            },
+            "start_date": "2024-11-09",
+            "end_date": "2024-11-09",
+            "start_time": null,
+            "end_time": null,
+            "hashtags": ["dcEvents", "thingstododc", "washingtondc", "maryland", "Virginia", "dmv", "dcmoms", "eventsdc", "igdc", "dcfamily", "dmvfreeevents", "kidfriendlydc", "mydccool", "November", "Fall", "veteransday"]
+        },
+        {
+            "name": "Education Fair",
+            "location": {
+                "street_address": "",
+                "city": "PG County",
+                "state": "MD",
+                "zip_code": "",
+                "latitude": null,
+                "longitude": null
+            },
+            "start_date": "2024-11-09",
+            "end_date": "2024-11-09",
+            "start_time": null,
+            "end_time": null,
+            "hashtags": ["dcEvents", "thingstododc", "washingtondc", "maryland", "Virginia", "dmv", "dcmoms", "eventsdc", "igdc", "dcfamily", "dmvfreeevents", "kidfriendlydc", "mydccool", "November", "Fall", "veteransday"]
+        },
+        {
+            "name": "Animal Encounters",
+            "location": {
+                "street_address": "Potomac Overlook Regional Park",
+                "city": "Arlington",
+                "state": "VA",
+                "zip_code": "",
+                "latitude": null,
+                "longitude": null
+            },
+            "start_date": "2024-11-10",
+            "end_date": "2024-11-10",
+            "start_time": null,
+            "end_time": null,
+            "hashtags": ["dcEvents", "thingstododc", "washingtondc", "maryland", "Virginia", "dmv", "dcmoms", "eventsdc", "igdc", "dcfamily", "dmvfreeevents", "kidfriendlydc", "mydccool", "November", "Fall", "veteransday"]
+        },
+        {
+            "name": "Sunday Workshops",
+            "location": {
+                "street_address": "Kid Museum",
+                "city": "Bethesda",
+                "state": "MD",
+                "zip_code": "",
+                "latitude": null,
+                "longitude": null
+            },
+            "start_date": "2024-11-10",
+            "end_date": "2024-11-10",
+            "start_time": null,
+            "end_time": null,
+            "hashtags": ["dcEvents", "thingstododc", "washingtondc", "maryland", "Virginia", "dmv", "dcmoms", "eventsdc", "igdc", "dcfamily", "dmvfreeevents", "kidfriendlydc", "mydccool", "November", "Fall", "veteransday"]
+        },
+        {
+            "name": "Holiday Movie Elf",
+            "location": {
+                "street_address": "",
+                "city": "National Harbor",
+                "state": "MD",
+                "zip_code": "",
+                "latitude": null,
+                "longitude": null
+            },
+            "start_date": "2024-11-10",
+            "end_date": "2024-11-10",
+            "start_time": null,
+            "end_time": null,
+            "hashtags": ["dcEvents", "thingstododc", "washingtondc", "maryland", "Virginia", "dmv", "dcmoms", "eventsdc", "igdc", "dcfamily", "dmvfreeevents", "kidfriendlydc", "mydccool", "November", "Fall", "veteransday"]
+        }
+    ]
+}

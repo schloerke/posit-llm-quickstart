@@ -8,3 +8,6 @@ langgraph
 requests
 chatlas @ git+https://github.com/cpsievert/chatlas
 pillow
+ffmpeg-python
+instaloader
+openai-whisper

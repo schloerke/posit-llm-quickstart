@@ -1,0 +1,114 @@
+{
+    "events": [
+        {
+            "name": "Muskogee Nation presents Mvskoke Etvlwv Festival",
+            "location": {
+                "street_address": "National Museum of the American Indian",
+                "city": "Washington",
+                "state": "DC"
+            },
+            "start_date": "2024/11/01",
+            "end_date": "2024/11/02"
+        },
+        {
+            "name": "Día de los Muertos",
+            "location": {
+                "street_address": "National Museum of the American Latino",
+                "city": "Washington",
+                "state": "DC"
+            },
+            "start_date": "2024/11/01",
+            "end_date": "2024/11/02"
+        },
+        {
+            "name": "The Negro Motorist Green Book Opening Celebration",
+            "location": {
+                "street_address": "MLK Memorial Library",
+                "city": "Washington",
+                "state": "DC"
+            },
+            "start_date": "2024/11/02",
+            "end_date": "2024/11/03"
+        },
+        {
+            "name": "Maryland STEM Festival",
+            "location": {
+                "street_address": "",
+                "city": "Maryland",
+                "state": ""
+            },
+            "start_date": "2024/11/01",
+            "end_date": "2024/11/05"
+        },
+        {
+            "name": "Sailing on a String",
+            "location": {
+                "street_address": "The Kennedy Center",
+                "city": "Washington",
+                "state": "DC"
+            },
+            "start_date": "2024/11/02",
+            "end_date": "2024/11/05"
+        },
+        {
+            "name": "Eyes on Reading: Julie Washington with Emily Hanford",
+            "location": {
+                "street_address": "Planet Word",
+                "city": "Washington",
+                "state": "DC"
+            },
+            "start_date": "2024/11/02",
+            "end_date": "2024/11/02"
+        },
+        {
+            "name": "Alexandria Fall-O-Ween",
+            "location": {
+                "street_address": "",
+                "city": "Alexandria",
+                "state": "VA"
+            },
+            "start_date": "2024/11/02",
+            "end_date": "2024/11/02"
+        },
+        {
+            "name": "Teddy Bear Wellness Clinic",
+            "location": {
+                "street_address": "Potomac Library",
+                "city": "Potomac",
+                "state": "MD"
+            },
+            "start_date": "2024/11/02",
+            "end_date": "2024/11/02"
+        },
+        {
+            "name": "Beatbox Dads",
+            "location": {
+                "street_address": "",
+                "city": "Hyattsville",
+                "state": "MD"
+            },
+            "start_date": "2024/11/03",
+            "end_date": "2024/11/03"
+        },
+        {
+            "name": "Piñatas, Poems and Pampering for the Soul",
+            "location": {
+                "street_address": "La Cosecha",
+                "city": "Washington",
+                "state": "DC"
+            },
+            "start_date": "2024/11/03",
+            "end_date": "2024/11/03"
+        },
+        {
+            "name": "Alexandria Fall Fest",
+            "location": {
+                "street_address": "",
+                "city": "Alexandria",
+                "state": "VA"
+            },
+            "start_date": "2024/11/03",
+            "end_date": "2024/11/03"
+        }
+    ]
+}

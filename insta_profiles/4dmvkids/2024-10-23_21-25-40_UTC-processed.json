@@ -1,0 +1,308 @@
+{
+  "events": [
+    {
+      "name": "Day of the Dead at the National Museum of the American Indian",
+      "location": {
+        "street_address": "Maryland Avenue Southwest",
+        "city": "Washington",
+        "state": "DC",
+        "zip_code": "20024",
+        "latitude": 38.88818305,
+        "longitude": -77.01663726740057
+      },
+      "start_date": "2024/10/26",
+      "end_date": "2024/10/27",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Harry Potter: A Forbidden Forest Experience",
+      "location": {
+        "street_address": "Washington Street",
+        "city": "Leesburg",
+        "state": "VA",
+        "zip_code": "",
+        "latitude": 38.935566800000004,
+        "longitude": -76.73831460676494
+      },
+      "start_date": "2024/10/26",
+      "end_date": "2024/12/08",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Movies - The Mighty Ducks",
+      "location": {
+        "street_address": "Bowie Ice Arena, Northview Drive",
+        "city": "Bowie",
+        "state": "MD",
+        "zip_code": "20716",
+        "latitude": 38.935566800000004,
+        "longitude": -76.73831460676494
+      },
+      "start_date": "2024/10/25",
+      "end_date": "2024/10/25",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Movies - The Nightmare Before Christmas",
+      "location": {
+        "street_address": "",
+        "city": "Washington",
+        "state": "DC",
+        "zip_code": "",
+        "latitude": 38.886,
+        "longitude": -77.01
+      },
+      "start_date": "2024/10/26",
+      "end_date": "2024/10/26",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Movies - Monster's Inc.",
+      "location": {
+        "street_address": "",
+        "city": "Wheaton",
+        "state": "MD",
+        "zip_code": "20902",
+        "latitude": 39.047752849999995,
+        "longitude": -77.05144123298449
+      },
+      "start_date": "2024/10/26",
+      "end_date": "2024/10/26",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Movies - Hocus Pocus 2",
+      "location": {
+        "street_address": "",
+        "city": "National Harbor",
+        "state": "MD",
+        "zip_code": "",
+        "latitude": 38.78935595,
+        "longitude": -77.00663083273959
+      },
+      "start_date": "2024/10/27",
+      "end_date": "2024/10/27",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Hill-O-ween",
+      "location": {
+        "street_address": "Eastern Market",
+        "city": "Washington",
+        "state": "DC",
+        "zip_code": "20003",
+        "latitude": 38.8842486,
+        "longitude": -76.995823
+      },
+      "start_date": "2024/10/25",
+      "end_date": "2024/10/25",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Merriweather District’s Spook-tacular",
+      "location": {
+        "street_address": "",
+        "city": "Columbia",
+        "state": "MD",
+        "zip_code": "",
+        "latitude": 39.106,
+        "longitude": -76.895
+      },
+      "start_date": "2024/10/25",
+      "end_date": "2024/10/25",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "DC Zinefest 2024",
+      "location": {
+        "street_address": "MLK Memorial Library",
+        "city": "Washington",
+        "state": "DC",
+        "zip_code": "",
+        "latitude": 38.888,
+        "longitude": -77.02
+      },
+      "start_date": "2024/10/26",
+      "end_date": "2024/10/26",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Kreeger Museum Open House",
+      "location": {
+        "street_address": "2401 Foxhall Road Northwest",
+        "city": "Washington",
+        "state": "DC",
+        "zip_code": "20007",
+        "latitude": 38.92188925,
+        "longitude": -77.0887607183308
+      },
+      "start_date": "2024/10/26",
+      "end_date": "2024/10/26",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Waterfront Art Festival",
+      "location": {
+        "street_address": "Washington, DC",
+        "city": "Washington",
+        "state": "DC",
+        "zip_code": "",
+        "latitude": 38.789,
+        "longitude": -77.015
+      },
+      "start_date": "2024/10/26",
+      "end_date": "2024/10/26",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Glen Echo Park Fall Frolic",
+      "location": {
+        "street_address": "7300 Fairway Hills",
+        "city": "Glen Echo",
+        "state": "MD",
+        "zip_code": "20812",
+        "latitude": 38.9669058,
+        "longitude": -77.13945110531782
+      },
+      "start_date": "2024/10/26",
+      "end_date": "2024/10/26",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "All About Literacy Series: Dork Diaries Meet & Greet",
+      "location": {
+        "street_address": "35 Market Place",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip_code": "21202",
+        "latitude": 39.2890365,
+        "longitude": -76.60628380115512
+      },
+      "start_date": "2024/10/26",
+      "end_date": "2024/10/26",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Halloween Howl! at Tall Ship Providence",
+      "location": {
+        "street_address": "",
+        "city": "Alexandria",
+        "state": "VA",
+        "zip_code": "",
+        "latitude": 38.882334,
+        "longitude": -77.1710914
+      },
+      "start_date": "2024/10/26",
+      "end_date": "2024/10/26",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Halloween Carnival",
+      "location": {
+        "street_address": "",
+        "city": "Falls Church",
+        "state": "VA",
+        "zip_code": "22046",
+        "latitude": 38.8254032,
+        "longitude": -77.0585042
+      },
+      "start_date": "2024/10/26",
+      "end_date": "2024/10/26",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Birdability Week Celebration",
+      "location": {
+        "street_address": "",
+        "city": "Chevy Chase",
+        "state": "MD",
+        "zip_code": "20815",
+        "latitude": 38.9813699,
+        "longitude": -77.0849245
+      },
+      "start_date": "2024/10/27",
+      "end_date": "2024/10/27",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Winnie the Pooh",
+      "location": {
+        "street_address": "4910 Auburn Avenue",
+        "city": "Bethesda",
+        "state": "MD",
+        "zip_code": "20814",
+        "latitude": 38.9896779,
+        "longitude": -77.0994567
+      },
+      "start_date": "2024/10/27",
+      "end_date": "2024/10/27",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "Brunch with the Sanderson Sisters",
+      "location": {
+        "street_address": "",
+        "city": "Riverdale Park",
+        "state": "MD",
+        "zip_code": "20052",
+        "latitude": 38.9615103,
+        "longitude": -76.9296515
+      },
+      "start_date": "2024/10/27",
+      "end_date": "2024/10/27",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    },
+    {
+      "name": "28th Annual Del Ray Halloween Parade",
+      "location": {
+        "street_address": "",
+        "city": "Del Ray",
+        "state": "VA",
+        "zip_code": "22301",
+        "latitude": 38.8254032,
+        "longitude": -77.0585042
+      },
+      "start_date": "2024/10/27",
+      "end_date": "2024/10/27",
+      "start_time": "",
+      "end_time": "",
+      "hashtags": []
+    }
+  ]
+}

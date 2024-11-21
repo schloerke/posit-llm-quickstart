@@ -1,0 +1,20 @@
+{
+    "events": [
+        {
+            "name": "Family Day at the U.S. Library of Congress",
+            "location": {
+                "street_address": "Thomas Jefferson Building, Library of Congress",
+                "city": "Washington",
+                "state": "DC",
+                "zip_code": "",
+                "latitude": 38.8950368,
+                "longitude": -77.0365427
+            },
+            "start_date": "2024/12/26",
+            "end_date": "2024/12/28",
+            "start_time": "",
+            "end_time": "",
+            "hashtags": ["VeteransDay", "4dmvkids", "dmvkids", "libraryofcongress", "victorygardens", "wwwii", "wwi", "familyactivity", "dcfamily", "dcmom"]
+        }
+    ]
+}
